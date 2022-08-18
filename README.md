@@ -16,7 +16,11 @@ Get in touch and be a contributor to this community 😉<br><br>
 - How do you give and receive feedback?
 - How do you keep learning new things?
 - Would you be willing to learn new things?
-- Do you like to work in a team? What would be a perfect team for you?<br><br>
+- Do you like to work in a team? What would be a perfect team for you?
+- Have you worked in a team before? If yes, tell us about your experience
+- What do you hope to achieve during the first year at @companyname?
+- What is your motivation for joining the Empatica?
+- Introduce yourself to us. What are your hobbies and interests? What are your professional goals? What makes you... you?<br><br>
 
 ## <span style="background-color: #9DCBC1; color: black"> Skill and experience questions:
 
