@@ -1,6 +1,6 @@
 # Tips for programmers in interviews
 
-![Alt question and people](/question-junior-developer/assets/question.png)
+![Alt question and people](images/question.png)
 
 ## Some questions we got doing interviews as a junior developer in front-end, full stack, Ux developer and back-end <br>
 
@@ -55,7 +55,7 @@ Get in touch and be a contributor to this community 😉<br><br>
 
 The most of tech exercises I did was solving exercises like katas. Some examples:
 
-![Alt question and people](/question-junior-developer/assets/wecan.png)
+![Alt question and people](images/wecan.png)
 
 - Solve an anagram ( to make a function that shows it is a true or false anagram)
 - To do a factorial of numbers (like they give number 5 and you need to give a result 5 _ 4 _ 3 _ 2 _ 1 = 120)
