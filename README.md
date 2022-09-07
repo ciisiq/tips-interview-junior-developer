@@ -1,6 +1,6 @@
 # Tips for programmers in interviews
 
-![Alt question and people](images/question.png)
+![Alt question and people](images/title_image.png)
 
 ## Some questions we got doing interviews as a junior developer in front-end, full stack, Ux developer and back-end <br>
 
