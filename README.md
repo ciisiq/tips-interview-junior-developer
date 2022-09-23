@@ -20,6 +20,8 @@ Get in touch and be a contributor to this community 😉<br><br>
 - Have you worked in a team before? If yes, tell us about your experience
 - What do you hope to achieve during the first year at @companyname?
 - What is your motivation for joining the @companyname?
+- How you gonna achieve an appropriate level of confidence after the first quarter in the company?
+
 - Introduce yourself to us. What are your hobbies and interests? What are your professional goals? What makes you... you?<br><br>
 
 ## <span style="background-color: #9DCBC1; color: black"> Skill and experience questions:
