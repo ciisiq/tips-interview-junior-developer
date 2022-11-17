@@ -12,6 +12,8 @@ Get in touch and be a contributor to this community 😉<br><br>
 ## <span style="background-color: #9DCBC1; color: black"> Personal questions:
 
 - Why did you choose to be a developer?
+- What made you become interested in programming?
+- What skills did you learn during your time at the bootcamp?
 - What was your first contact with this area? how interested?
 - How do you give and receive feedback?
 - How do you keep learning new things?
