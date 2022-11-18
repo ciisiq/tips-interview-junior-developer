@@ -15,6 +15,7 @@ Get in touch and be a contributor to this community 😉<br><br>
 - What made you become interested in programming?
 - Tell me a project that you worked on?
 - What is the proudest things that you ever done?
+- Do you have any regrets?
 - What skills did you learn during your time at the bootcamp?
 - What was your first contact with this area? how interested?
 - How do you give and receive feedback?
