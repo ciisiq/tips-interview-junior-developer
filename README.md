@@ -14,6 +14,8 @@ Get in touch and be a contributor to this community 😉<br><br>
 - Why did you choose to be a developer?
 - What made you become interested in programming?
 - Tell me a project that you worked on?
+- How would you increase your self-confidence the first 5 months at work?
+- How do you develope resilience?
 - What is the proudest things that you ever done?
 - Do you have any regrets?
 - What skills did you learn during your time at the bootcamp?
@@ -57,6 +59,7 @@ Get in touch and be a contributor to this community 😉<br><br>
 - What is CD/CI?
 - How do you debug in Javascript and HTML?
 - What does UX mean?
+- What is Kubernetes?
 - How to improve the performance of a website?
 - How to improve the accessibility and test?
 - What is the difference between an object and an array?
